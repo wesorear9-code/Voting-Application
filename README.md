@@ -5,4 +5,6 @@ It was created to allow the secure casting and tallying of votes/ballots in an e
 Core features include key generation and exchange for each user/voter, secure casting of each vote, secure storage of each vote, and calculation of the winner(s) once all votes have been cast. 
 Additional features would include having 2 separate applications for casting ballots and computing winners (with a secure network connection between each) and having the capability to handle full ballot voting.
 
+Additional information on this project may be seen in the Powerpoint Slideshow.
+
 Google Gemini was used for the generation of the initial GUI. The code for the internal logic of the program was written entirely by myself.
